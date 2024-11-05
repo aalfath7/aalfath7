@@ -1,3 +1,5 @@
+<img src="bg-v2.png />
+
 <h1>Hello, Im <b>farhan</b> :wave:</h1>
 
 <p>I am a web developer with expertise in JavaScript and modern frameworks such as Vue.js in building responsive and user-friendly web applications, 
