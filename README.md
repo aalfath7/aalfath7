@@ -1,4 +1,4 @@
-<img src="bg-v2.png />
+<img src="bg-v2.png" width="100%" />
 
 <h1>Hello, Im <b>farhan</b> :wave:</h1>
 
