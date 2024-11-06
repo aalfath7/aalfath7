@@ -8,7 +8,7 @@
 
 <p>The technology I use includes : </p>
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>               
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>  
