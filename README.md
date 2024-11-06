@@ -10,7 +10,8 @@
 
 <div style="display: flex; align-items: center;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block; margin-right:20px;" width="30px"/>               
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="display: inline-block; margin-right:20px;" width="100px" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="display: inline-block; margin-right:20px;" width="30px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="display: inline-block; margin-right:20px;" width="30px" />                 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" style="display: inline-block; margin-right:20px;" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" style="display: inline-block; margin-right:20px;" width="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" style="display: inline-block; margin-right:20px;" width="80px"/>           
