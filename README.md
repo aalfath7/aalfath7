@@ -1,5 +1,3 @@
-<img src="bg.png" height="200px" width="100%" style="object-fit:cover;" />
-
 ### Hi There, Im farhan 👋
 
 - 💻 Front End | Back End | Designer
