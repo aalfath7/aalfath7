@@ -1,18 +1,13 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <img src="bg.png" width="100%"/>
 
-<h1>Hello, Im <b>farhan</b> :wave:</h1>
+## Hello, Im farhan 👋
 
-<p>I am a software developer focused on building websites and mobile apps. I try to keep up with the latest technologies to enhance application efficiency, and performance, with an engaging and attractive UI.</p>
+I am a software developer focused on building websites. I try to keep up with the latest technologies to enhance application efficiency, and good performance, with an engaging and attractive UI.
 
-<p>The technology I use includes : </p>
+## Tech Stack ⚒️
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="height: 30px; object-fit: contain;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="height: 30px; object-fit: contain;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="height: 30px; object-fit: contain;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" style="height: 60px; object-fit: contain;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" style="height: 60px; object-fit: contain;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" style="height: 60px; object-fit: contain;"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,nuxt,laravel,express,tailwind,bootstrap,ts,nodejs,jquery,)](https://skillicons.dev)
+
+## Tools ⚔️
+
+[![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git)](https://skillicons.dev)
