@@ -2,7 +2,7 @@
 
 ## Hello, Im farhan 👋
 
-I am a software developer focused on building websites. I try to keep up with the latest technologies to enhance application efficiency, and good performance, with an engaging and attractive UI.
+I’m a programmer skilled in building web platforms, with expertise in both front-end and back-end development. I’m passionate about creating high-performance applications that are visually engaging and user-friendly.
 
 ## Tech Stack ⚒️
 
