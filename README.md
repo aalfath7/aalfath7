@@ -1,3 +1,5 @@
+<img src="bg.png" />
+
 ### Hi There, Im farhan 👋
 
 - 💻 Front End | Back End | Designer
