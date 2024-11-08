@@ -9,4 +9,4 @@
 
 #### Tools ⚔️
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git,netlify,vercel)](https://skillicons.dev)
