@@ -15,4 +15,4 @@
 
 ### 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aalfath7&theme=blood-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aalfath7&theme=gruvbox)](https://git.io/streak-stats)
