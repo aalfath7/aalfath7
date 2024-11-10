@@ -12,3 +12,7 @@
 #### Tools ⚔️
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git,netlify,vercel)](https://skillicons.dev)
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aalfath7&theme=dark&hide_border=false)<br/>
