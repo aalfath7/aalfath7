@@ -1,6 +1,4 @@
-<img src="bg.png" />
-
-### Hi There, Im farhan 👋
+## Hi There, Im farhan 👋
 
 - 💻 Front End | Back End Developer
 - 👓 Currently, Im interested to build apps with VueJS and Laravel
