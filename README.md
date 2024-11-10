@@ -13,6 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git,netlify,vercel)](https://skillicons.dev)
 
-### 📊 GitHub Stats:
+#### GitHub Stats 📊 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aalfath7&theme=gruvbox)](https://git.io/streak-stats)
