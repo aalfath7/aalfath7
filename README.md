@@ -2,7 +2,7 @@
 
 ### Hi There, Im farhan 👋
 
-- 💻 Front End | Back End | Designer
+- 💻 Front End | Back End Developer
 - 👓 Currently, Im interested to build apps with VueJS and Laravel
 
 #### Tech Stack ⚒️
@@ -15,4 +15,5 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aalfath7&theme=dark&hide_border=false)<br/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalfath7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aalfath7&layout=compact&langs_count=8&theme=algolia"/>
