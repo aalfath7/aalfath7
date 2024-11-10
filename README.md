@@ -15,4 +15,4 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aalfath7&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aalfath7&theme=blood-dark)](https://git.io/streak-stats)
