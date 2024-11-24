@@ -1,19 +1,11 @@
 ## Hi There, Im farhan 👋
 
 - 💻 Front End | Back End Developer
-- 👓 Currently, Im interested to build apps with VueJS and Laravel
-
-## Visit My Site
-
 - 🧑‍💻 [Alfath Site](https://alfath-one.vercel.app)
 
 #### Tech Stack ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,nuxt,react,next,laravel,express,tailwind,bootstrap,ts,nodejs,jquery,pinia,svelte)](https://skillicons.dev)
-
-#### Tools ⚔️
-
-[![My Skills](https://skillicons.dev/icons?i=photoshop,figma,mysql,vscode,github,vite,git,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,nuxt,react,next,laravel,express,tailwind,bootstrap,ts,nodejs,jquery,pinia,svelte,mysql)](https://skillicons.dev)
 
 #### GitHub Stats 📊
 
