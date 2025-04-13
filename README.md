@@ -5,7 +5,7 @@
 
 #### Tech Stack ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,nuxt,react,next,laravel,express,tailwind,bootstrap,ts,nodejs,jquery,pinia,svelte,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,nuxt,react,next,laravel,express,tailwind,bootstrap,ts,nodejs,jquery,pinia,svelte,mysql,mongo)](https://skillicons.dev)
 
 #### GitHub Stats 📊
 
