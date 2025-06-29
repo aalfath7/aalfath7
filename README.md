@@ -1,7 +1,7 @@
 ## Hi There, Im farhan 👋
 
 - 💻 Front End | Back End Developer
-- 🧑‍💻 [Website Saya](https://alfath-one.vercel.app)
+- 🧑‍💻 [Website Saya](https://fath.vercel.app)
 
 #### Tech Stack ⚒️
 
