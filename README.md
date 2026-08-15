@@ -1,6 +1,6 @@
 ## Hi There, Im farhan 👋
 
-- 💻 Front End | Back End Developer
+- 💻 Fullstack Developer
 - 🧑‍💻 [Website Saya](https://fath.vercel.app)
 
 #### Tech Stack ⚒️
