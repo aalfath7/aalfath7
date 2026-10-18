@@ -1,7 +1,7 @@
 ## Hi There, Im farhan 👋
 
 - 💻 Fullstack Developer
-- 🧑‍💻 [Portfolio](https://aalfath7.github.io/portfolio/))
+- 🧑‍💻 [Portfolio](https://aalfath7.github.io/portfolio/)
 
 #### Tech Stack ⚒️
 
