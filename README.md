@@ -1,7 +1,7 @@
 ## Hi There, Im farhan 👋
 
 - 💻 Fullstack Developer
-- 🧑‍💻 [Website Saya](https://fath.vercel.app)
+- 🧑‍💻 [Portfolio](https://aalfath7.github.io/portfolio/))
 
 #### Tech Stack ⚒️
 
