@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fath.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fathway.com)
 [![Lokasi](https://img.shields.io/badge/Lampung%2C%20Indonesia-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/aalfath7)
 
 </div>
