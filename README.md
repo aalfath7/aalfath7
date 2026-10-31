@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f766e,100:0ea5e9&text=Farhan%20Abdillah%20Alfath&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Laravel%20%26%20Next.js&descAlignY=58&descSize=16" alt="Farhan Abdillah Alfath" width="100%"/>
+<img src="bg.png" alt="Farhan Abdillah Alfath" width="100%"/>
 
 <a href="https://github.com/aalfath7">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=560&lines=Membangun+aplikasi+web+dari+ujung+ke+ujung;Membuat+teknologi+untuk+pendidikan+dan+belajar+Al-Qur'an;Belajar+AI+dengan+membangunnya+dari+nol" alt="Typing SVG"/>
